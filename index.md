@@ -1,4 +1,8 @@
-## Hello, I am a CS major student.
+## Hello, 
+## My name is Sungyoung Moon. I am a Junior Computer Science major student.
+## I like to go hiking
+
+
 
 ### My Project 1
 

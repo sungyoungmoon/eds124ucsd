@@ -1,6 +1,6 @@
 ## Hello, Welcome to Sungyoung's Web page.
 ## My name is Sungyoung Moon. I am a junior Computer Science major student.
-
+![Image](./Sy.png)
 
 
 

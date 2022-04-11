@@ -2,9 +2,9 @@
 ## My name is Sungyoung Moon. I am a Computer Science major student.
 
 
-##Project 1
+##Snap Code Intro 4/3
 
 Click [Link](https://www.youtube.com/watch?v=MD025_Tw0jg) ![image](./1.png) 
 
-##Project 2
+##Snap Code Dancing 4/10
 Click [Link](https://youtu.be/qaEn1t27Y3g) ![image](./101.png) 
